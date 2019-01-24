@@ -1,0 +1,17 @@
+//Nick Passantino
+//CS360 Assignment 1
+// Professor Serce
+// 01/23/2019
+
+This program creates a window which spawns balls when the user clicks on it. The balls
+spawn with a random velocity, and change velocity when they hit a wall.
+
+Websites That I found helpful:
+
+https://stackoverflow.com/questions/12396066/how-to-get-location-of-a-mouse-click-relative-to-a-swing-window
+
+https://stackoverflow.com/questions/4246351/creating-random-colour-in-java
+
+https://stackoverflow.com/questions/19468596/i-cannot-find-the-start-method-in-the-timer-class
+
+https://www.mkyong.com/java/java-generate-random-integers-in-a-range/
